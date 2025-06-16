@@ -1,1 +1,1 @@
-Télecharger cette fichier et extracter.
+Télecharger cette fichier et extraire dans répertoire ce que tu veux.
